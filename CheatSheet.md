@@ -76,6 +76,10 @@ Those are usefull hotkeys and the related keyword to find them if you forgot.
 
 **`alt+~`** - **`[vcs | operations]`** - sow git options such as annotate on file
 
+## Settings
 
+**`alt+ctrl+S`** - **`[settings]`** - open settings
 
+**`alt+ctrl+shift+S`** - **`[project]`** - open project settings
 
+**`ctrl+~`** - **`[quick]`** - fast settings
