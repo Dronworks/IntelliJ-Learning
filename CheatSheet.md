@@ -6,6 +6,8 @@ Those are usefull hotkeys and the related keyword to find them if you forgot.
 ## General
 **`CTRL+SHIFT+A`** - google for IntelliJ, if you need something you look here.
 
+**`alt+ctrl+up/down`** - **`[occurrence]`** - move in IntelliJ lists
+
 ## Navigation
 
  **`ctrl+alt+left/right`** - **`[forward | back]`** - move betwen classes.
@@ -58,6 +60,11 @@ Those are usefull hotkeys and the related keyword to find them if you forgot.
 
 **`alt+insert`** - **`[generate]`** - generate methods - works really good in Unit tests
 
+## Build Project
+
+**`ctrl+f9`** - **`[build]`** - build project
+
+**`alt+ctrl+up/down`** - **`[occurrence]`** - if there are errors with compilation, move between errors
 
 
 
