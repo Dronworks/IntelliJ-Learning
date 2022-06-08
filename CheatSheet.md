@@ -66,5 +66,16 @@ Those are usefull hotkeys and the related keyword to find them if you forgot.
 
 **`alt+ctrl+up/down`** - **`[occurrence]`** - if there are errors with compilation, move between errors
 
+## Git
+
+**`ctrl+K`** - **`[commit]`** - open commit window
+
+**`ctrl+D`** - **`[compare]`** - open file compare
+
+**`ctrl+alt+z`** - **`[rollback]`** - revert changes
+
+**`alt+~`** - **`[vcs | operations]`** - sow git options such as annotate on file
+
+
 
 
