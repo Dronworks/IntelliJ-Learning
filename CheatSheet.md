@@ -30,4 +30,22 @@ Those are usefull hotkeys and the related keyword to find them if you forgot.
 
 **`ctrl+number`** - **`[mnemonic]`** - go to mnemonic bookmark by number
 
-## Navigation
+## Code Editing
+
+**`ctrl+shift+left/right`** – **`[select]`** - select word
+
+**`ctrl+left/right`** - **`[move]`** – move over word
+
+**`ctrl+w/ctrl+shift+w`** – **`[select]`** - select/unselect section - loop - function...
+
+**`alt+shift+up/down`** – **`[move line]`** - move lines up/down
+
+**`ctrl+P`** – **`[parameter]`** - show parameter of a function.
+
+**`ctrl+alt+shift+left/right`** – move parameters inside function
+
+**`alt+enter on empty string`** – language inject – **`alt+enter`** again – edit inject text – **`alt+f4`** finish editing.
+
+
+
+
