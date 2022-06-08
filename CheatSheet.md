@@ -4,7 +4,7 @@ Those are usefull hotkeys and the related keyword to find them if you forgot.
 **`HOTKEY`** - **`[RELATED KEYWORD]`** - **WHAT IT DO**
 
 ## General
-**CTRL+SHIFT+A** - google for IntelliJ, if you need something you look here.
+**`CTRL+SHIFT+A`** - google for IntelliJ, if you need something you look here.
 
 ## Navigation
 
@@ -45,6 +45,18 @@ Those are usefull hotkeys and the related keyword to find them if you forgot.
 **`ctrl+alt+shift+left/right`** – move parameters inside function
 
 **`alt+enter on empty string`** – language inject – **`alt+enter`** again – edit inject text – **`alt+f4`** finish editing.
+
+## Code Completion
+
+**`ctrl+shift+space`** - **`[type | matching]`** - show possible inplementations of class / show possible function inputs / show possible accessing (Calendar c = Calendar.getInstance())
+
+**`ctrl+shift+space + ctrl+shift+space`** - **`[type | matching]`** - sometimes there are more options for example when creating Collection of something. (Collection c = Collections.emptyList())
+
+**`ctrl+space + ctrl+space`** - **`[basic]`** - filling functions with import (assertSame -> Assert.assertSame()) HINT: after we can press alt + enter and static import Assert.
+
+**`ctrl+j`** - **`[template]`** - Start with item. then press ctrl+j and type: examples - null/nn, notnull, try, for, forr, syncronized… **note:** to see what completion exists can run **`ctrl+shift+a`** -> **`postfix completion`**
+
+**`alt+insert`** - **`[generate]`** - generate methods - works really good in Unit tests
 
 
 
