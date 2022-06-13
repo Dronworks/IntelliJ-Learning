@@ -12,6 +12,8 @@ Those are usefull hotkeys and the related keyword to find them if you forgot.
 
  **`ctrl+alt+left/right`** - **`[forward | back]`** - move betwen classes.
 
+ **`ctrl+alt+shift+UP/DOWN`** - inside **edited** file, move between changed code fragments.
+
 **`ctrl+e`** - **`[recent]`** – recent files **note:** ctrl + e second time shows only edited files
 
 **`ctrl+shift+e`** - **`[recent]`** – recent files with code samples **note:** ctrl + e second time shows only edited files
